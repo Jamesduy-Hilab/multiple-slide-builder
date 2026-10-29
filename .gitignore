@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Output artifacts
+output/
+scratch/
+*.pptx.tmp
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

@@ -1,0 +1,48 @@
+{
+  "template": "company-intro",
+  "slides": [
+    {
+      "source_index": 0,
+      "replacements": {
+        "AN NVIDIA COMPANY & PRODUCT OVERVIEW": "HILAB TECHNOLOGY · CAPABILITY OVERVIEW",
+        "The accelerated": "AI & CLOUD",
+        "computing company.": "SOLUTIONS.",
+        "From the graphics chip to the AI factory — NVIDIA's full-stack platform, product lines, business model, and key figures at a glance.": "Kiến trúc hệ thống, giải pháp AI/Data chuyên sâu và năng lực công nghệ tùy biến toàn diện cho doanh nghiệp.",
+        "AS OF JULY 2026   ·   EVERY FIGURE WEB-VERIFIED AGAINST NVIDIA FILINGS, PRESS RELEASES & INDUSTRY RESEARCH": "HILAB TECHNOLOGY  ·  PORTFOLIO & CAPABILITY PROFILE"
+      }
+    },
+    {
+      "source_index": 1,
+      "replacements": {
+        ">_ COMPANY PROFILE": ">_ VỀ HILAB TECHNOLOGY",
+        "A 33-year-old chip company — now among the world's most valuable": "Công ty tư vấn & phát triển giải pháp phần mềm, tự động hóa và AI B2B",
+        "Founded": "Thành lập",
+        "Headquarters": "Trụ sở",
+        "Santa Clara, California": "TP. Hồ Chí Minh, Việt Nam"
+      }
+    },
+    {
+      "source_index": 2,
+      "replacements": {
+        "WHAT NVIDIA SELLS": "HỆ SINH THÁI GIẢI PHÁP HILAB",
+        "Not a chip — the whole computing stack": "Giải pháp công nghệ toàn diện từ hạ tầng đến ứng dụng",
+        "Each layer compounds the one below it into a full accelerated-computing platform, sold from a single vendor.": "Được thiết kế linh hoạt, bảo mật và may đo riêng theo quy trình cốt lõi của doanh nghiệp.",
+        "SILICON": "AI & AUTOMATION",
+        "GPUs, CPUs (Grace), DPUs, SoCs": "HiSale, Agentic AI, OCR, Bot Automation",
+        "the raw compute": "Tự động hóa vận hành",
+        "SYSTEMS": "CUSTOM DEV",
+        "DGX servers · GB200 NVL72 rack-scale AI factories": "CRM, ERP, B2B Web/App, Microservices",
+        "assembled into machines": "Phát triển phần mềm theo yêu cầu",
+        "NETWORKING": "DATA PLATFORM",
+        "NVLink · Quantum InfiniBand · Spectrum-X Ethernet": "Data Warehouse, Data Pipeline, Analytics",
+        "the fabric that scales it": "Dữ liệu tập trung",
+        "SOFTWARE": "CLOUD ARCHITECTURE",
+        "CUDA · CUDA-X libraries · AI Enterprise · NIM": "AWS, GCP, Private Cloud, On-Premise",
+        "the programming model": "Hạ tầng tối ưu",
+        "AI & ECOSYSTEM": "BẢO HÀNH & VẬN HÀNH",
+        "Frameworks, foundation models & ~6M developers": "24/7 SLA, Code Ownership, Tech Transfer",
+        "what customers build on": "Chuyển giao mã nguồn 100%"
+      }
+    }
+  ]
+}
